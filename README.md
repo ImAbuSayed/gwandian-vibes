@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gwandian-vibes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Gwandian Vibes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gwandian-vibes/) |
+| **Get License** | [Obtain a Music License for Gwandian Vibes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gwandian-vibes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan 'ch bharya ae nasha tera sohniye, totally wild
+> Tenu takda haan main saari raat kudiye, dangerous child
+> Sahaan 'ch vasse tu kivein dassaan tainu, losing my mind
+> Ishq 'ch hoya main jhalla mutiyare, one of a kind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
