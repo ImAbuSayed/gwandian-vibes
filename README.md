@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gwandian-vibes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Gwandian Vibes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gwandian-vibes/) |
+| **Get License** | [Request Licensing for Gwandian Vibes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gwandian-vibes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `641bd70ee7e19e6399cc9351f8b4932d8214ebb1956b93e340e49d99dbe75770` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
